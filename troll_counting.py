@@ -46,4 +46,5 @@ def troll_count(n):
         return 'many'
     elif n >8:
         return 'lots'
+    elif n <0:
     return
